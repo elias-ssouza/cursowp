@@ -1,0 +1,51 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Div (#1) uagb rm content **/
+.wp-block-uagb-restaurant-menu > div:nth-of-type(1) > .uagb-rm__content {
+	
+}
+
+/** Geral >> Div (#1) span **/
+.wp-block-uagb-restaurant-menu > div:nth-of-type(1) > div:nth-of-type(1) > span {
+	color: rgb(212, 89, 71) !important;
+}
+
+/** Geral >> Div (#1) span _2 **/
+.wp-block-uagb-restaurant-menu > div:nth-of-type(2) > div:nth-of-type(1) > span {
+	color: rgb(212, 89, 71) !important;
+}
+
+/** Geral >> Div (#1) span _3 **/
+.wp-block-uagb-restaurant-menu > div:nth-of-type(3) > div:nth-of-type(1) > span {
+	color: rgb(212, 89, 71) !important;
+}
+
+/** Geral >> Div (#1) span _4 **/
+.wp-block-uagb-restaurant-menu > div:nth-of-type(4) > div:nth-of-type(1) > span {
+	color: rgb(212, 89, 71) !important;
+}
+
+/** Geral >> Uagb block 05ce324d uagb ifb icon wrap **/
+.uagb-block-05ce324d .uagb-ifb-icon-wrap {
+	
+}
+
+/** Geral >> Colophon ast builder grid row tablet full **/
+#colophon .ast-builder-grid-row-tablet-full {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+}
+
+/** Geral >> Post 11 uagb block 3361031e **/
+#post-11 .uagb-block-3361031e {
+	border-style: none dotted dotted dotted !important;
+}
+
+/** Geral >> Post 11 uagb block bc55c283 **/
+#post-11 .uagb-block-bc55c283 {
+	border-style: dotted dotted none dotted !important;
+}
+
