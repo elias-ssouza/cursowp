@@ -66,4 +66,4 @@ for ( var j = 0; j < ssLinks.length; j++ ) {
 		});
 	}
 }
- })
+ });
