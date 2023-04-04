@@ -59,3 +59,23 @@
 	border-bottom-style: solid !important;
 }
 
+/** Geral >> Wpforms submit 147 **/
+#wpforms-submit-147 {
+	background-color: rgb(244, 117, 33) !important;
+}
+
+/** Geral >> Content ast container **/
+#content .ast-container {
+	
+}
+
+/** Geral >> Post 19 wp block uagb container **/
+#post-19 .wp-block-uagb-container {
+	background-color: rgb(255, 255, 255) !important;
+}
+
+/** Geral >> Post 19 uagb container inner blocks wrap **/
+#post-19 .uagb-container-inner-blocks-wrap {
+	
+}
+
